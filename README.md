@@ -6,7 +6,6 @@
 
 #### Repository created by Rachel R. Renne
 
-[![DOI](https://zenodo.org/badge/1024422976.svg)](https://doi.org/10.5281/zenodo.16414911)
 
 ---
 
