@@ -6,11 +6,11 @@
 
 #### Repository created by Rachel R. Renne
 
-[![DOI]()
+[![DOI](https://zenodo.org/badge/1024422976.svg)](https://doi.org/10.5281/zenodo.16414911)
 
 ---
 
-This repository includes table of sources used in the literature review and code for creating all figures.
+This repository includes a table of sources used in the literature review and code for creating all figures in the manuscript.
 
 Tables of sources used in the literature review, including raw exports from Zotero are found in
 `01_Data`.
